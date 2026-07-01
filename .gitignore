@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment (if any)
+venv/
+env/
+.venv/
+
+# Large Database files (GitHub has a 100MB file limit)
+data/inventory.db
