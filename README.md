@@ -13,7 +13,6 @@
 - [End-to-End Application](#end-to-end-application)
 - [Project Structure](#project-structure)
 - [How to Run This Project](#how-to-run-this-project)
-- [Author & Contact](#author--contact)
 
 ---
 
