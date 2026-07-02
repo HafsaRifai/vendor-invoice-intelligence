@@ -102,7 +102,7 @@ inventory-invoice-analytics/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
+git clone https://github.com/yourusername/vendor-invoice-analytics.git
 ```
 
 ### 2. Train Models
@@ -138,14 +138,7 @@ print(result)
 
 ---
 
-## 👤 Author & Contact
-
-**Hafsa Rifai**
-- 📧 Email: hafsa@sliit.lk
-- 🔗 LinkedIn: [Hafsa Rifai](https://www.linkedin.com)
-- 🐙 GitHub: [HafsaRifai](https://github.com)
 
 ---
 
 **Last Updated:** July 2026  
-**Status:** Production Ready ✅
