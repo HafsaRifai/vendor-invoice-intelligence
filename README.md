@@ -69,7 +69,7 @@ Business-driven questions:
 ## 📈 Evaluation Metrics
 
 **Freight:** MAE, RMSE, R² Score  
-**Flagging:** Accuracy, Precision, Recall, F1-score (99% accuracy)
+**Flagging:** Accuracy, Precision, Recall, F1-score (89% accuracy)
 
 ---
 
