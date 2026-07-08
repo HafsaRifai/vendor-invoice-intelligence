@@ -215,9 +215,9 @@ print(f"Risk Assessment: {risk_level} (Flag Code: {predicted_flag})")
 ## 👤 Author & Contact
 
 **Hafsa Rifai**
-*   **Email:** [hafsa@sliit.lk](mailto:hafsa@sliit.lk)
+*   **Email:** [hafsarifai.work@gmail.com](mailto:hafsarifai.work@gmail.com)
 *   **GitHub:** [@HafsaRifai](https://github.com/HafsaRifai)
-*   **LinkedIn:** [Hafsa Rifai](https://www.linkedin.com/in/hafsarifai/) *(Update with your direct LinkedIn URL)*
+*   **LinkedIn:** [Hafsa Rifai](https://www.linkedin.com/in/hafsa-rifai/)
 
 ---
 *Developed as part of a Machine Learning & Decision Intelligence Portfolio.*
