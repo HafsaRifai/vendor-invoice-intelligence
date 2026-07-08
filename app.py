@@ -20,9 +20,9 @@ st.set_page_config(
 # ========================================================
 st.markdown("""
 # 📦 Vendor Invoice Intelligence Portal
-### AI-Driven Freight Cost Prediction & Invoice Risk Flagging
+### Machine Learning-Powered Freight Cost Prediction & Invoice Risk Flagging
 
-This internal analytics portal leverages machine learning to:
+This interactive portal demonstrates how machine learning can be used to:
 - **Forecast freight costs accurately**
 - **Detect risky or abnormal vendor invoices**
 - **Reduce financial leakage and manual workload**
@@ -175,5 +175,5 @@ st.markdown("""
 - 📊 Freight Prediction: R² 0.85+ | Random Forest Regressor
 - 🔄 Last Updated: July 2026
 
-**Questions?** Contact the Data Science team.
+**Questions?** Contact [Hafsa Rifai](mailto:hafsarifai.work@gmail.com).
 """)
